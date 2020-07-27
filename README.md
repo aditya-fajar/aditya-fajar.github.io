@@ -1,1 +1,3 @@
-"# aditya-fajar.github.io" 
+---
+permalink: /index.html
+---
